@@ -1,0 +1,13 @@
+Admin
+Username: admin
+Password: admin123
+
+Vendor
+Username: Shabeer
+Password: 123456
+
+Username: Rubs
+Password: flowers
+
+Username: fox
+Password: martin
